@@ -1,8 +1,8 @@
 {
-  "name": "NightSky",
-  "displayName": "NightSky Theme",
+  "name": "Night Sky",
+  "displayName": "Night Sky Theme",
   "version": "1.0.0",
-  "publisher": "Abeilles",
+  "publisher": "abeilles",
   "description": "night theme",
   "engines": {
     "vscode": "^1.54.0"
