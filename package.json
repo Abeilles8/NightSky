@@ -1,6 +1,6 @@
 {
   "name": "NightSky",
-  "displayName": "NightSky",
+  "displayName": "NightSky Theme",
   "version": "1.0.0",
   "publisher": "Abeilles",
   "description": "night theme",
@@ -8,17 +8,28 @@
     "vscode": "^1.54.0"
   },
   "categories": [
-    "Other"
+    "Themes"
   ],
+  "icon": "images/icon.png",
+  "license": "",
+  "homepage": "https://github.com/Abeilles8/NightSky",
+  "bugs": {
+    "url": "https://github.com/Abeilles8/NightSky/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abeilles8/NightSky.git"
+  },
   "activationEvents": [
     "onCommand:NightSky.helloWorld"
   ],
   "main": "./out/extension.js",
   "contributes": {
-    "commands": [
+    "themes": [
       {
-        "command": "NightSky.helloWorld",
-        "title": "Hello World"
+        "label": "NightSky",
+        "uiTheme": "vs-dark",
+        "path": "./theme/night-sky-color-theme.json"
       }
     ]
   },
