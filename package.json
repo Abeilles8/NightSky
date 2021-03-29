@@ -11,7 +11,7 @@
     "Themes"
   ],
   "icon": "images/icon.png",
-  "license": "",
+  "license": "https://github.com/Abeilles8/NightSky/blob/main/LICENSE",
   "homepage": "https://github.com/Abeilles8/NightSky",
   "bugs": {
     "url": "https://github.com/Abeilles8/NightSky/issues"
