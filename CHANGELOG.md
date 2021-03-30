@@ -8,6 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.3] 2021-03-30
 ### Update
 - README => image
+- Syntax color => highlight color
 ## [1.0.2] 2021-03-30
 ### Update
 - terminal.background => "#1a0172"
