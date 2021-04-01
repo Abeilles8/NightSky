@@ -7,6 +7,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 ## [1.0.4] 2021-04-01
 ### Edit
+- Fixed a bug
+## [1.0.4] 2021-04-01
+### Edit
 - Syntax color
 - README
 ## [1.0.3] 2021-03-30

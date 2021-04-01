@@ -13,7 +13,6 @@
       "foreground": "#ffb300"
     }
   },
-
   "tokenColors": [
     {
       "name": "unison punctuation",
@@ -1845,7 +1844,6 @@
       }
     }
   ],
-
   "colors": {
     "foreground": "#ffffff",
     "focusBorder": "#ea1296",
