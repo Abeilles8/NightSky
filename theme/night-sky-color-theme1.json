@@ -7,12 +7,13 @@
       "foreground": "#56b6c2"
     },
     "variable.constant": {
-      "foreground": "#ff7c00"
+      "foreground": "#ffcf00"
     },
     "variable.defaultLibrary": {
       "foreground": "#ffb300"
     }
   },
+
   "tokenColors": [
     {
       "name": "unison punctuation",
@@ -32,7 +33,7 @@
       "name": "haskell storage type",
       "scope": "storage.type.haskell",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -102,7 +103,7 @@
       "name": "regexp operator.quantifier",
       "scope": "keyword.operator.quantifier.regexp",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -193,7 +194,7 @@
       "name": "math property js/ts",
       "scope": "support.constant.property.math",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -280,7 +281,7 @@
       "name": "support.constant.property-value.scss",
       "scope": "support.constant.property-value.scss,support.constant.property-value.css",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -294,7 +295,7 @@
       "name": "css color standard name",
       "scope": "support.constant.color.w3c-standard-color-name.css,support.constant.color.w3c-standard-color-name.scss",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -308,7 +309,7 @@
       "name": "css attribute-name.id",
       "scope": "support.constant.color.w3c-standard-color-name.css",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -343,7 +344,7 @@
       "name": "js/ts json",
       "scope": "support.constant.json",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -370,7 +371,7 @@
       "name": "js/ts support.variable.property.process",
       "scope": "support.variable.property.process",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -461,7 +462,7 @@
       "name": "python parameter",
       "scope": "variable.parameter.function.language.python",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -482,7 +483,7 @@
       "name": "pyCs",
       "scope": "variable.parameter.function.python",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -503,7 +504,7 @@
       "name": "python placeholder reset to normal string",
       "scope": "constant.character.format.placeholder.other.python",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -659,7 +660,7 @@
       "name": "Control Elements",
       "scope": "control.elements, keyword.operator.less",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -722,7 +723,7 @@
       "name": "Support type",
       "scope": "support.constant.font-name",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -757,21 +758,21 @@
       "name": "Integers",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
       "name": "Constants",
       "scope": "constant",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
       "name": "Constants",
       "scope": "punctuation.definition.constant",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -785,7 +786,7 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -801,7 +802,7 @@
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -836,7 +837,7 @@
       "name": "Bold",
       "scope": "markup.bold,todo.bold",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -892,7 +893,7 @@
       "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition Bold",
       "scope": "punctuation.definition.bold.markdown",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -1143,14 +1144,14 @@
       "name": "support php constants",
       "scope": "support.constant.core.rust",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
       "name": "support php constants",
       "scope": "support.constant.ext.php,support.constant.std.php,support.constant.core.php,support.constant.parser-token.php",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -1241,14 +1242,14 @@
       "name": "rgb value",
       "scope": "inline-color-decoration rgb-value",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
       "name": "rgb value less",
       "scope": "less rgb-value",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -1295,7 +1296,7 @@
     {
       "scope": "token.warn-token",
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -1463,7 +1464,7 @@
         "support.constant.elm"
       ],
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -1733,7 +1734,7 @@
         "wikiword.xi"
       ],
       "settings": {
-        "foreground": "#ff7c00"
+        "foreground": "#ffcf00"
       }
     },
     {
@@ -1844,6 +1845,7 @@
       }
     }
   ],
+
   "colors": {
     "foreground": "#ffffff",
     "focusBorder": "#ea1296",
@@ -1961,7 +1963,7 @@
     "editorGutter.modifiedBackground": "#0c7d9d",
     "editorGutter.addedBackground": "#587c0c",
     "editorGutter.deletedBackground": "#94151b",
-    "editorGutter.foldingControlForeground": "#c5c5c5",
+    "editorGutter.foldingControlForeground": "#ff008f",
     "editorCodeLens.foreground": "#999999",
     "editorGroup.border": "#444444",
     "diffEditor.insertedTextBackground": "#9bb95533",

@@ -1,8 +1,10 @@
-# Night Sky Theme for Visual Studio Code
-  ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/abeilles.nightsky?color=11FF08&style=plastic)
-  ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/abeilles.nightsky?color=11FF08&style=plastic)
-  ![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/abeilles.nightsky?color=11FF08&style=plastic)
-
+<h1 align="center">Night Sky Theme for Visual Studio Code</h1>
+<div align="center">
+  <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/abeilles.nightsky?color=%2311FF08">
+  <img alt="Visual Studio Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/i/abeilles.nightsky?color=%2311FF08">
+  <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/abeilles.nightsky?color=%2311FF08">
+  <img alt="Visual Studio Marketplace Rating" src="https://img.shields.io/visual-studio-marketplace/r/abeilles.nightsky?color=%2311FF08">
+</div>
 Designed a stylish and beautiful theme for VS Code.
 
 ## Preview

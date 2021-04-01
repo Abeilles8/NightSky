@@ -5,6 +5,10 @@ All notable changes to the "NightSky" extension will be documented in this file.
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+## [1.0.4] 2021-04-01
+### Edit
+- Syntax color
+- README
 ## [1.0.3] 2021-03-30
 ### Update
 - README => image
